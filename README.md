@@ -1,8 +1,10 @@
-# Hi, I'm Nour 👋
+# 👋 Hi, I'm Nour
+**Software Engineering Student | Computer Science Graduate (ISIM)**  
+*Passionate about backend development & software architecture*
 
-🎓 Software Engineering Student  
-💻 Full Stack Web Developer  
-📍 Tunisia
+## 🎓 Education
+- **Software Engineering Cycle** @ ISIMM (Current)
+- **Bachelor's in Computer Science** @ ISIMM(Graduated 2025)
 
 ## 🚀 About Me
 I am a Software Engineering student with a strong interest in building scalable
