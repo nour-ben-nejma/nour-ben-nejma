@@ -34,40 +34,6 @@ Ingénieure en devenir, passionnée par la construction d'applications web robus
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚛 LogistiCo — Logistics Distribution Platform
-> Plateforme full-stack de gestion logistique avec plan de distribution détaillé, optimisation des tournées, suivi de flotte et gestion des stocks en temps réel.
-
-![Vue](https://img.shields.io/badge/Vue_3-42B883?style=flat&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat&logo=vercel)
-![Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=flat&logo=render)
-
----
-
-### 🤖 WATC Platform — AI Academic Evaluation
-> Plateforme IA d'accompagnement étudiant : test personnalisé généré par Gemini, gestion PFE avec Kanban, formations adaptatives et matching d'emploi intelligent.
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour-ben-nejma&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-ben-nejma&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Contact
 
